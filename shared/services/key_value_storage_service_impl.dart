@@ -1,6 +1,6 @@
 
 
-import 'package:app_anime_1/shared/services/key_value_storage_service.dart';
+import 'key_value_storage_service.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class KeyValueStorageServiceImpl extends KeyValueStorageService {
