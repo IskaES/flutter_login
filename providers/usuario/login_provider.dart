@@ -1,12 +1,8 @@
-import 'package:app_anime_1/providers/usuario/auth_provider.dart';
+import 'auth_provider.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:formz/formz.dart';
-import 'package:go_router/go_router.dart';
 import 'package:path/path.dart';
 import 'package:flutter/material.dart';
 import '../../screens/screens.dart';
-import '../../widgets/widgets.dart';
-
 
 class LoginFormState {
 
