@@ -1,10 +1,5 @@
-import 'package:app_anime_1/providers/usuario/auth_provider.dart';
-import 'package:app_anime_1/screens/screens.dart';
-import 'package:flutter/material.dart';
+import 'auth_provider.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:path/path.dart';
-
-import '../../widgets/widgets.dart';
 
 
 class RegisterFormState {
