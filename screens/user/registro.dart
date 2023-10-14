@@ -1,4 +1,4 @@
-import 'package:app_anime_1/providers/usuario/register_provider.dart';
+import '../../providers/usuario/register_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
