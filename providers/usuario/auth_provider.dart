@@ -1,6 +1,5 @@
-
-import 'package:app_anime_1/shared/services/key_value_storage_service.dart';
-import 'package:app_anime_1/shared/services/key_value_storage_service_impl.dart';
+import '../../shared/services/key_value_storage_service.dart';
+import '../../shared/services/key_value_storage_service_impl.dart';
 
 import '../../domain/repositories/auth_rep.dart';
 import '../../infrastructure/repositories/usuario_repository.dart';
